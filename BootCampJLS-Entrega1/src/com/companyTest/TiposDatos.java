@@ -15,7 +15,13 @@ public class TiposDatos {
 
 
 
-        
+        System.out.println("Este es un dato caracter: " + caracter);
+        System.out.println("Este es un dato Entero: " + numeroInt);
+        System.out.println("Este es un dato Long: " + numeroLong);
+        System.out.println("Este es un dato float: " + numeroFloat);
+        System.out.println("Este es un dato Double: " + numeroDouble);
+        System.out.println("Me gusta la progrmacion: " + meGustaLaProgramacion);
+        System.out.println("Mi nombre en un dato string: " + dataString);
 
 
 
